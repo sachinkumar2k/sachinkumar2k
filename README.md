@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sachinkumar2k
-- 👀 I’m interested in nodejs , nest js hasura graphql
-- 🌱 I’m currently learning nest js
+- 👋 Hi, I’m @sachin kumar
+- 👀 I’m interested in nodejs
+- 🌱 I’m currently learning next js
 - 💞️ I’m looking to collaborate on node js projects
 - 📫 connect with me on twitter
 <!---
